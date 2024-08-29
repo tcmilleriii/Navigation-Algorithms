@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/treymiller/Education/cpp_knowledge/useful_algos/iterative_closest_point/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/treymiller/Education/cpp_knowledge/useful_algos/iterative_closest_point/include -isystem /opt/homebrew/include/eigen3 -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/main.dir/main.cpp.o -c /Users/treymiller/Education/cpp_knowledge/useful_algos/iterative_closest_point/main.cpp",
+  "file": "/Users/treymiller/Education/cpp_knowledge/useful_algos/iterative_closest_point/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/treymiller/Education/cpp_knowledge/useful_algos/iterative_closest_point/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/treymiller/Education/cpp_knowledge/useful_algos/iterative_closest_point/include -isystem /opt/homebrew/include/eigen3 -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/main.dir/src/iterative_closest_point_helper.cpp.o -c /Users/treymiller/Education/cpp_knowledge/useful_algos/iterative_closest_point/src/iterative_closest_point_helper.cpp",
+  "file": "/Users/treymiller/Education/cpp_knowledge/useful_algos/iterative_closest_point/src/iterative_closest_point_helper.cpp",
+  "output": "CMakeFiles/main.dir/src/iterative_closest_point_helper.cpp.o"
+}
+]
