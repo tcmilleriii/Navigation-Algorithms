@@ -1,0 +1,7 @@
+# ninja log v6
+7	2119	1723959348222399025	CMakeFiles/main.dir/src/iterative_closest_point_helper.cpp.o	aa104a1aec2855f9
+2119	2147	1723959350334715184	main	3e1bf1e5d7ce57b1
+7	692	1723957272136084961	CMakeFiles/main.dir/main.cpp.o	65995782860c544e
+4	666	1723959843964275425	CMakeFiles/main.dir/main.cpp.o	65995782860c544e
+5	2113	1723959843964560592	CMakeFiles/main.dir/src/iterative_closest_point_helper.cpp.o	aa104a1aec2855f9
+2113	2141	1723959846072863404	main	3e1bf1e5d7ce57b1
